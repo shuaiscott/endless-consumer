@@ -1,0 +1,9 @@
+diffusers
+invisible_watermark
+transformers
+accelerate
+safetensors
+pika
+imagekitio
+python-dotenv
+compel
